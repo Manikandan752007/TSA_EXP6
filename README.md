@@ -59,10 +59,12 @@ plt.title('Airline Passenger Forecast');
 ## OUTPUT:
 
 ### TEST_PREDICTION
-![image](https://github.com/Pradeeppachiyappan/TSA_EXP6/assets/118707347/cae96613-5d2a-4251-93e8-1fe2cebafe05)
+<img width="945" height="664" alt="image" src="https://github.com/user-attachments/assets/d42a52c3-20e5-4240-b2f5-5a6bebc748ef" />
+
 
 ### FINAL_PREDICTION
-![image](https://github.com/Pradeeppachiyappan/TSA_EXP6/assets/118707347/a8787182-765c-4624-96d2-78ceeeeea4f3)
+<img width="954" height="678" alt="image" src="https://github.com/user-attachments/assets/13c0399d-558f-471f-aec6-c26f9fb4088d" />
+
 
 ## RESULT:
 Thus the program run successfully based on the Holt Winters Method model.
